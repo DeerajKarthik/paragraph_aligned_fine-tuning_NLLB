@@ -1,0 +1,82 @@
+[
+  {
+    "source": "\"It is certainly an unpleasant thing,\" replied Mr. Dashwood, \"to have those kind of yearly drains on one's income.",
+    "target": "-En verdad es desagradable -replicó el señor Dashwood- que cada año se escurra de esa forma parte del ingreso de uno.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "One's fortune, as your mother justly says, is NOT one's own.",
+    "target": "Los bienes con que uno cuenta, como tan justamente dice tu madre, no son de uno.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "To be tied down to the regular payment of such a sum, on every rent day, is by no means desirable: it takes away one's independence.\"",
+    "target": "Estar obligado a pagar regularmente una suma como ésa en fechas fijas, no es para nada deseable: lo priva a uno de su independencia.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Undoubtedly; and after all you have no thanks for it.",
+    "target": "-Indudablemente; y, después de todo, nadie te lo agradece.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "They think themselves secure, you do no more than what is expected, and it raises no gratitude at all.",
+    "target": "Sienten que están asegurados, no haces más de lo que se espera de ti y ello no despierta ninguna gratitud.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "If I were you, whatever I did should be done at my own discretion entirely.",
+    "target": "Si estuviera en tu lugar, para cualquier cosa que hiciera me guiaría por mi solo criterio.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "It may be very inconvenient some years to spare a hundred, or even fifty pounds from our own expenses.\"",
+    "target": "Algunos años puede ser muy inconveniente desprenderse de cien, o incluso de cincuenta libras, sacándolas de nuestros propios gastos.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"I believe you are right, my love; it will be better that there should be no annuity in the case; whatever I may give them occasionally will be of far greater assistance than a yearly allowance, because they would only enlarge their style of living if they felt sure of a larger income, and would not be sixpence the richer for it at the end of the year.",
+    "target": "-Creo que tienes razón, mi amor; será mejor que no haya ninguna renta anual en este caso; lo que sea que les pueda dar ocasionalmente será de mucho mayor ayuda que una asignación anual, porque si se sintieran seguras de un ingreso mayor sólo elevarían su estilo de vida, y con ello no serían un penique más ricas al final del año.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "A present of fifty pounds, now and then, will prevent their ever being distressed for money, and will, I think, be amply discharging my promise to my father.\"",
+    "target": "Un regalo de cincuenta libras de vez en cuando impedirá que se aflijan por asuntos de dinero, y pienso que saldará ampliamente la promesa hecha a mi padre.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Indeed, to say the truth, I am convinced within myself that your father had no idea of your giving them any money at all.",
+    "target": "A decir verdad, estoy íntimamente convencida de que la idea de tu padre no era en absoluto que les dieras dinero.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  }
+]

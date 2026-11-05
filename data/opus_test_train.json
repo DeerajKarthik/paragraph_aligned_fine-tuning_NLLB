@@ -1,0 +1,642 @@
+[
+  {
+    "source": "The family of Dashwood had long been settled in Sussex.",
+    "target": "La familia Dashwood llevaba largo tiempo afincada en Sussex.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Their estate was large, and their residence was at Norland Park, in the centre of their property, where, for many generations, they had lived in so respectable a manner as to engage the general good opinion of their surrounding acquaintance.",
+    "target": "Su propiedad era de buen tamaño, y en el centro de ella se encontraba la residencia, Norland Park, donde la manera tan digna en que habían vivido por muchas generaciones llegó a granjearles el respeto de todos los conocidos del lugar.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The late owner of this estate was a single man, who lived to a very advanced age, and who for many years of his life, had a constant companion and housekeeper in his sister.",
+    "target": "El último dueño de esta propiedad había sido un hombre soltero, que alcanzó una muy avanzada edad, y que durante gran parte de su existencia tuvo en su hermana una fiel compañera y ama de casa.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "But her death, which happened ten years before his own, produced a great alteration in his home; for to supply her loss, he invited and received into his house the family of his nephew Mr. Henry Dashwood, the legal inheritor of the Norland estate, and the person to whom he intended to bequeath it.",
+    "target": "Pero la muerte de ella, ocurrida diez años antes que la suya, produjo grandes alteraciones en su hogar. Para compensar tal pérdida, invitó y recibió en su casa a la familia de su sobrino, el señor Henry Dashwood, el legítimo heredero de la finca Norland y la persona a quien se proponía dejarla en su testamento.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "In the society of his nephew and niece, and their children, the old Gentleman's days were comfortably spent.",
+    "target": "En compañía de su sobrino y sobrina, y de los hijos de ambos, la vida transcurrió confortablemente para el anciano caballero.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The constant attention of Mr. and Mrs. Henry Dashwood to his wishes, which proceeded not merely from interest, but from goodness of heart, gave him every degree of solid comfort which his age could receive; and the cheerfulness of the children added a relish to his existence.",
+    "target": "La constante atención que el señor Henry Dashwood y su esposa prestaban a sus deseos, nacida no del mero interés sino de la bondad de sus corazones, hizo su vida confortable en todo aquello que, por su edad, podía convenirle; y la alegría de los niños añadía nuevos deleites a su existencia.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "By a former marriage, Mr. Henry Dashwood had one son: by his present lady, three daughters.",
+    "target": "De un matrimonio anterior, el señor Henry Dashwood tenía un hijo; y de su esposa actual, tres hijas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The son, a steady respectable young man, was amply provided for by the fortune of his mother, which had been large, and half of which devolved on him on his coming of age.",
+    "target": "El hijo, un joven serio y respetable, tenía el futuro asegurado por la fortuna de su madre, que era cuantiosa, y de cuya mitad había entrado en posesión al cumplir su mayoría de edad.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "By his own marriage, likewise, which happened soon afterwards, he added to his wealth.",
+    "target": "Además, su propio matrimonio, ocurrido poco después, lo hizo más rico aún.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "To him therefore the succession to the Norland estate was not so really important as to his sisters; for their fortune, independent of what might arise to them from their father's inheriting that property, could be but small.",
+    "target": "Para él, entonces, el legado de la finca Norland no era en verdad tan importante como para sus hermanas; pues ellas, independientemente de lo que pudiera llegarles si su padre heredaba esa propiedad, eran de fortuna que no puede considerarse sino escasa.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Their mother had nothing, and their father only seven thousand pounds in his own disposal; for the remaining moiety of his first wife's fortune was also secured to her child, and he had only a life-interest in it.",
+    "target": "Su madre no tenía nada, y el padre sólo podía disponer de siete mil libras, porque de la restante mitad de la fortuna de su primera esposa también era beneficiario el hijo, y él sólo tenía derecho al usufructo de ese patrimonio mientras viviera.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The old gentleman died: his will was read, and like almost every other will, gave as much disappointment as pleasure.",
+    "target": "Murió el anciano caballero, se leyó su testamento y, como casi todos los testamentos, éste dio por igual desilusiones y alegrías.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "He was neither so unjust, nor so ungrateful, as to leave his estate from his nephew;--but he left it to him on such terms as destroyed half the value of the bequest.",
+    "target": "En su última voluntad no fue ni tan injusto ni tan desagradecido como para privar a su sobrino de las tierras, pero se las dejó en términos tales que destruían la mitad del valor del legado.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Mr. Dashwood had wished for it more for the sake of his wife and daughters than for himself or his son;--but to his son, and his son's son, a child of four years old, it was secured, in such a way, as to leave to himself no power of providing for those who were most dear to him, and who most needed a provision by any charge on the estate, or by any sale of its valuable woods.",
+    "target": "El señor Dashwood había deseado esas propiedades más por el bienestar de su esposa e hijas que para sí mismo y su hijo; sin embargo, la herencia estaba asignada a su hijo, y al hijo de éste, un niño de cuatro años, de tal manera que a él le quitaban toda posibilidad de velar por aquellos que más caros le eran y que más necesitaban de apoyo, ya sea a través de un eventual gravamen sobre las propiedades o la venta de sus valiosos bosques.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The whole was tied up for the benefit of this child, who, in occasional visits with his father and mother at Norland, had so far gained on the affections of his uncle, by such attractions as are by no means unusual in children of two or three years old; an imperfect articulation, an earnest desire of having his own way, many cunning tricks, and a great deal of noise, as to outweigh all the value of all the attention which, for years, he had received from his niece and her daughters.",
+    "target": "Se habían tomado las provisiones necesarias para asegurar que todo fuera en beneficio de este niño, el cual, en sus ocasionales visitas a Norland con su padre y su madre, había conquistado el afecto de su tío con aquellos rasgos seductores que no suelen escasear en los niños de dos o tres años: una pronunciación imperfecta, el inquebrantable deseo de hacer siempre su voluntad, incontables jugarretas y artimañas y ruido por montones, gracias que finalmente terminaron por desplazar el valor de todas las atenciones que, durante años, había recibido el caballero de su sobrina y de las hijas de ésta.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "He meant not to be unkind, however, and, as a mark of his affection for the three girls, he left them a thousand pounds a-piece.",
+    "target": "No era su intención, sin embargo, faltar a la bondad, y como señal de su afecto por las tres niñas le dejó mil libras a cada una.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Mr. Dashwood's disappointment was, at first, severe; but his temper was cheerful and sanguine; and he might reasonably hope to live many years, and by living economically, lay by a considerable sum from the produce of an estate already large, and capable of almost immediate improvement.",
+    "target": "En un comienzo la desilusión del señor Dashwood fue profunda; pero era de temperamento alegre y confiado; razonablemente podía esperar vivir muchos años y, haciéndolo de manera sobria, ahorrar una suma considerable de la renta de una propiedad ya de buen tamaño, y capaz de casi inmediato incremento.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "But the fortune, which had been so tardy in coming, was his only one twelvemonth.",
+    "target": "Pero la fortuna, que había tardado tanto en llegar, fue suya durante sólo un año.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "He survived his uncle no longer; and ten thousand pounds, including the late legacies, was all that remained for his widow and daughters.",
+    "target": "No fue más lo que sobrevivió a su tío, y diez mil libras, incluidos los últimos legados, fue todo lo que quedó para su viuda e hijas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "His son was sent for as soon as his danger was known, and to him Mr. Dashwood recommended, with all the strength and urgency which illness could command, the interest of his mother-in-law and sisters.",
+    "target": "Tan pronto se supo que la vida del señor Dashwood peligraba, enviaron por su hijo y a él le encargó el padre, con la intensidad y urgencia que la enfermedad hacía necesarias, el bienestar de su madrastra y hermanas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Mr. John Dashwood had not the strong feelings of the rest of the family; but he was affected by a recommendation of such a nature at such a time, and he promised to do every thing in his power to make them comfortable.",
+    "target": "El señor John Dashwood no tenía la profundidad de sentimientos del resto de la familia, pero sí le afectó una recomendación de tal índole en un momento como ése, y prometió hacer todo lo que le fuera posible por el bienestar de sus parientes.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "His father was rendered easy by such an assurance, and Mr. John Dashwood had then leisure to consider how much there might prudently be in his power to do for them.",
+    "target": "El padre se sintió tranquilo ante tal promesa, y el señor John Dashwood se entregó entonces sin prisa a considerar cuánto podría prudentemente hacer por ellas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "He was not an ill-disposed young man, unless to be rather cold hearted and rather selfish is to be ill-disposed: but he was, in general, well respected; for he conducted himself with propriety in the discharge of his ordinary duties.",
+    "target": "No era John Dashwood un joven mal dispuesto, a menos que ser algo frío de corazón y un poco egoísta sea tener mala disposición; pero en general era respetado, porque se comportaba con corrección en el desempeño de sus deberes corrientes.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Had he married a more amiable woman, he might have been made still more respectable than he was:--he might even have been made amiable himself; for he was very young when he married, and very fond of his wife.",
+    "target": "De haber desposado una mujer más amable, podría haber llegado a ser más respetable de lo que era -incluso él mismo podría haberse transformado en alguien amable-, porque era muy joven cuando se casó y le tenía mucho cariño a su esposa.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "But Mrs. John Dashwood was a strong caricature of himself;--more narrow-minded and selfish.",
+    "target": "Pero la señora de John Dashwood era una áspera caricatura de su esposo, más estrecha de mente y más egoísta que él.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "When he gave his promise to his father, he meditated within himself to increase the fortunes of his sisters by the present of a thousand pounds a-piece.",
+    "target": "Al hacer la promesa a su padre, había sopesado en su interior la posibilidad de aumentar la fortuna de sus hermanas obsequiándoles mil libras a cada una.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The prospect of four thousand a-year, in addition to his present income, besides the remaining half of his own mother's fortune, warmed his heart, and made him feel capable of generosity.-- \"Yes, he would give them three thousand pounds: it would be liberal and handsome!",
+    "target": "La perspectiva de aumentar sus ingresos actuales con cuatro mil libras anuales, que venían a sumarse a la mitad restante de la fortuna de su propia madre, le alegraba el corazón y lo hacía sentirse muy generoso. “Sí, les daría tres mil libras: ¡Cuán espléndido y dadivoso gesto!",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Three thousand pounds! he could spare so considerable a sum with little inconvenience.\"-- He thought of it all day long, and for many days successively, and he did not repent.",
+    "target": "Podía desprenderse de tan considerable suma con casi ningún inconveniente.” Pensó en ello durante todo el día, y durante muchos días sucesivos, y no se arrepintió.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "No sooner was his father's funeral over, than Mrs. John Dashwood, without sending any notice of her intention to her mother-in-law, arrived with her child and their attendants.",
+    "target": "No bien había terminado el funeral de su padre cuando la esposa de John Dashwood, sin haber dado aviso alguno de sus intenciones a su suegra, llegó con su hijo y sus criados.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "No one could dispute her right to come; the house was her husband's from the moment of his father's decease; but the indelicacy of her conduct was so much the greater, and to a woman in Mrs. Dashwood's situation, with only common feelings, must have been highly unpleasing;--but in HER mind there was a sense of honor so keen, a generosity so romantic, that any offence of the kind, by whomsoever given or received, was to her a source of immovable disgust.",
+    "target": "Nadie podía discutirle su derecho a venir: la casa pertenecía a su esposo desde el momento mismo de la muerte de su padre. Pero eso mismo agravaba la falta de delicadeza de su conducta, y no se necesitaba ninguna sensibilidad especial para que cualquier mujer en la situación de la señora Dashwood se sintiera enormemente agraviada por ello; en ella, sin embargo, había un tan alto sentido del honor, una generosidad tan romántica, que cualquier ofensa de ese tipo, ejercida o recibida por quienquiera que fuese, se transformaba en fuente de imborrable disgusto.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Mrs. John Dashwood had never been a favourite with any of her husband's family; but she had had no opportunity, till the present, of shewing them with how little attention to the comfort of other people she could act when occasion required it.",
+    "target": "La señora de John Dashwood nunca había contado con el especial favor de nadie en la familia de su esposo; pero, hasta el momento, no había tenido oportunidad de mostrarles con cuán poca consideración por el bienestar de otras personas podía actuar cuando la ocasión lo requería.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "So acutely did Mrs. Dashwood feel this ungracious behaviour, and so earnestly did she despise her daughter-in-law for it, that, on the arrival of the latter, she would have quitted the house for ever, had not the entreaty of her eldest girl induced her first to reflect on the propriety of going, and her own tender love for all her three children determined her afterwards to stay, and for their sakes avoid a breach with their brother.",
+    "target": "Sintió la señora Dashwood de manera tan aguda este descortés proceder, y tan intenso desdén hacia su nuera le produjo, que a la llegada de esta última habría abandonado la casa para siempre de no haber sido porque, primero, la súplica de su hija mayor la llevó a reflexionar sobre la conveniencia de hacerlo; y, más tarde, por el tierno amor que sentía por sus tres hijas, que la decidió a quedarse y por ellas evitar una ruptura con el hermano.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Elinor, this eldest daughter, whose advice was so effectual, possessed a strength of understanding, and coolness of judgment, which qualified her, though only nineteen, to be the counsellor of her mother, and enabled her frequently to counteract, to the advantage of them all, that eagerness of mind in Mrs. Dashwood which must generally have led to imprudence.",
+    "target": "Elinor, esta hija mayor cuya recomendación había sido tan eficaz, poseía una solidez de entendimiento y serenidad de juicio que la calificaban, aunque con sólo diecinueve años, para aconsejar a su madre, y a menudo le permitían contrarrestar, para beneficio de toda la familia, esa vehemencia de espíritu en la señora Dashwood que tantas veces pudo llevarla a la imprudencia.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "She had an excellent heart;--her disposition was affectionate, and her feelings were strong; but she knew how to govern them: it was a knowledge which her mother had yet to learn; and which one of her sisters had resolved never to be taught.",
+    "target": "Era de gran corazón, de carácter afectuoso y sentimientos profundos. Pero sabía cómo gobernarlos: algo que su madre todavía estaba por aprender, y que una de sus hermanas había resuelto que nunca se le enseñara.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Marianne's abilities were, in many respects, quite equal to Elinor's.",
+    "target": "Las cualidades de Marianne estaban, en muchos aspectos, a la par de las de Elinor.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "She was sensible and clever; but eager in everything: her sorrows, her joys, could have no moderation.",
+    "target": "Tenía inteligencia y buen juicio, pero era vehemente en todo; ni sus penas ni sus alegrías conocían la moderación.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "She was generous, amiable, interesting: she was everything but prudent.",
+    "target": "Era generosa, amable, atrayente: era todo, menos prudente.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Elinor saw, with concern, the excess of her sister's sensibility; but by Mrs. Dashwood it was valued and cherished.",
+    "target": "Preocupaba a Elinor la excesiva sensibilidad de su hermana, la misma que la señora Dashwood valoraba y apreciaba.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "They encouraged each other now in the violence of their affliction.",
+    "target": "En las actuales circunstancias, una a otra se incitaban a vivir su aflicción sin permitir que amainara su violencia.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The agony of grief which overpowered them at first, was voluntarily renewed, was sought for, was created again and again.",
+    "target": "Voluntariamente renovaban, buscaban, recreaban una y otra vez la agonía de pesadumbre que las había abrumado en un comienzo.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "They gave themselves up wholly to their sorrow, seeking increase of wretchedness in every reflection that could afford it, and resolved against ever admitting consolation in future.",
+    "target": "Se entregaban por completo a su pena, buscando aumentar su desdicha en cada imagen capaz de reflejarla, y decidieron jamás admitir consuelo en el futuro.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Elinor, too, was deeply afflicted; but still she could struggle, she could exert herself.",
+    "target": "También Elinor estaba profundamente afligida, pero aún podía luchar, y esforzarse.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "She could consult with her brother, could receive her sister-in-law on her arrival, and treat her with proper attention; and could strive to rouse her mother to similar exertion, and encourage her to similar forbearance.",
+    "target": "Podía consultar con su hermano, y recibir a su cuñada a su llegada y ofrecerle la debida atención; y podía luchar por inducir a su madre a similares esfuerzos y animarla a alcanzar semejante dominio sobre sí misma.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Margaret, the other sister, was a good-humored, well-disposed girl; but as she had already imbibed a good deal of Marianne's romance, without having much of her sense, she did not, at thirteen, bid fair to equal her sisters at a more advanced period of life.",
+    "target": "Margaret, la otra hermana, era una niña alegre y de buen carácter, pero como ya había absorbido una buena dosis de las ideas románticas de Marianne, sin poseer demasiado de su sensatez, a los trece años no prometía igualar a sus hermanas mayores en posteriores etapas de su vida.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Mrs. John Dashwood now installed herself mistress of Norland; and her mother and sisters-in-law were degraded to the condition of visitors.",
+    "target": "La señora de John Dashwood se instaló como dueña y señora de Norland, y su suegra y cuñadas descendieron a la categoría de visitantes.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "As such, however, they were treated by her with quiet civility; and by her husband with as much kindness as he could feel towards anybody beyond himself, his wife, and their child.",
+    "target": "En tanto tales, sin embargo, las trataba con tranquila urbanidad, y su marido con tanta bondad como le era posible sentir hacia cualquiera más allá de sí mismo, su esposa e hijo.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "He really pressed them, with some earnestness, to consider Norland as their home; and, as no plan appeared so eligible to Mrs. Dashwood as remaining there till she could accommodate herself with a house in the neighbourhood, his invitation was accepted.",
+    "target": "Realmente les insistió, con alguna tenacidad, para que consideraran Norland como su hogar; y dado que ningún proyecto le parecía tan conveniente a la señora Dashwood como permanecer allí hasta acomodarse en una casa de la vecindad, aceptó su invitación.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "A continuance in a place where everything reminded her of former delight, was exactly what suited her mind.",
+    "target": "Quedarse en un lugar donde todo le recordaba antiguos deleites, era exactamente lo que sentaba a su mente.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "In seasons of cheerfulness, no temper could be more cheerful than hers, or possess, in a greater degree, that sanguine expectation of happiness which is happiness itself.",
+    "target": "En los buenos tiempos, nadie tenía un temperamento más alegre que el de ella o poseía en mayor grado esa optimista expectativa de felicidad que es la felicidad misma.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "But in sorrow she must be equally carried away by her fancy, and as far beyond consolation as in pleasure she was beyond alloy.",
+    "target": "Pero también en la pena se dejaba llevar por la fantasía, y se hacía tan inaccesible al consuelo como en el placer estaba más allá de toda moderación.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Mrs. John Dashwood did not at all approve of what her husband intended to do for his sisters.",
+    "target": "La señora de John Dashwood no aprobaba en absoluto lo que su esposo se proponía hacer por sus hermanas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "To take three thousand pounds from the fortune of their dear little boy would be impoverishing him to the most dreadful degree.",
+    "target": "Disminuir en tres mil libras la fortuna de su querido muchachito significaría empobrecerlo de la manera más atroz.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "How could he answer it to himself to rob his child, and his only child too, of so large a sum?",
+    "target": "¿Cómo podría justificarse ante sí mismo si privara a su hijo, su único hijo, de tan enorme suma?",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "And what possible claim could the Miss Dashwoods, who were related to him only by half blood, which she considered as no relationship at all, have on his generosity to so large an amount.",
+    "target": "¿Y qué derecho podían tener las señoritas Dashwood, que eran sólo sus medias hermanas -lo que para ella significaba que no eran realmente parientes-, a exigir de su generosidad una cantidad tan grande?",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "It was very well known that no affection was ever supposed to exist between the children of any man by different marriages; and why was he to ruin himself, and their poor little Harry, by giving away all his money to his half sisters?",
+    "target": "Era bien sabido que no se podía esperar ninguna clase de afecto entre los hijos de distintos matrimonios de un hombre; y, ¿por qué habían de arruinarse, él y su pobrecito Harry, regalándoles a sus medias hermanas todo su dinero?",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"It was my father's last request to me,\" replied her husband, \"that I should assist his widow and daughters.\" \"He did not know what he was talking of, I dare say; ten to one but he was light-headed at the time.",
+    "target": "-Fue la última petición de mi padre -respondió su esposo-, que yo ayudara a su viuda y a sus hijas. -Me atrevería a decir que no sabía de qué estaba hablando; diez a uno a que le estaba fallando la cabeza en ese momento.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Had he been in his right senses, he could not have thought of such a thing as begging you to give away half your fortune from your own child.\"",
+    "target": "Si hubiera estado en sus cabales no podría habérsele ocurrido pedirte algo así, que despojaras a tu propio hijo de la mitad de tu fortuna.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"He did not stipulate for any particular sum, my dear Fanny; he only requested me, in general terms, to assist them, and make their situation more comfortable than it was in his power to do.",
+    "target": "-Mi querida Fanny, él no estipuló ninguna cantidad en particular; tan sólo me pidió, en términos generales, que las apoyara e hiciera de su situación algo más desahogada de lo que estaba en sus manos hacer.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Perhaps it would have been as well if he had left it wholly to myself.",
+    "target": "Quizá habría sido mejor que dejara todo a mi criterio.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "But as he required the promise, I could not do less than give it; at least I thought so at the time.",
+    "target": "Pero como él quiso que se lo prometiera, no pude menos que hacerlo. Al menos, fue lo que pensé en ese momento.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Something must be done for them whenever they leave Norland and settle in a new home.\"",
+    "target": "Algo hay que hacer por ellas cuando dejen Norland y se establezcan en un nuevo hogar.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Well, then, LET something be done for them; but THAT something need not be three thousand pounds.",
+    "target": "-Está bien, entonces, hay que hacer algo por ellas; pero ese algo no necesita ser tres mil libras.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Consider,\" she added, \"that when the money is once parted with, it never can return.",
+    "target": "Ten en cuenta -agregó- que cuando uno se desprende del dinero, nunca más lo recupera.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Your sisters will marry, and it will be gone for ever.",
+    "target": "Tus hermanas se casarán, y se habrá ido para siempre.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "If, indeed, it could be restored to our poor little boy--\"",
+    "target": "Si siquiera algún día se lo pudieran devolver a nuestro pobre hijito...",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Why, to be sure,\" said her husband, very gravely, \"that would make great difference.",
+    "target": "-Pero, por supuesto -dijo su esposo con gran seriedad-, eso cambiaría todo.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "The time may come when Harry will regret that so large a sum was parted with.",
+    "target": "Puede llegar un momento en que Harry lamente haberse separado de una suma tan grande.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "If he should have a numerous family, for instance, it would be a very convenient addition.\"",
+    "target": "Si, por ejemplo, llegara a tener una familia numerosa, sería un muy conveniente suplemento a sus rentas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Perhaps, then, it would be better for all parties, if the sum were diminished one half.--Five hundred pounds would be a prodigious increase to their fortunes!\"",
+    "target": "-Quizá, entonces, sería mejor para todos si se disminuyera la cantidad a la mitad. Quinientas libras significarían un portentoso incremento en sus fortunas.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "What brother on earth would do half so much for his sisters, even if REALLY his sisters!",
+    "target": "¡Qué persona en el mundo haría siquiera la mitad por sus hermanas, incluso si fuesen verdaderas hermanas!",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "And as it is--only half blood!--But you have such a generous spirit!\"",
+    "target": "Y en este caso... ¡sólo medias hermanas! Pero, ¡tienes un espíritu tan generoso!",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"One had rather, on such occasions, do too much than too little.",
+    "target": "En estas ocasiones, uno preferiría hacer demasiado antes que muy poco.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "No one, at least, can think I have not done enough for them: even themselves, they can hardly expect more.\"",
+    "target": "Al menos, nadie puede pensar que no he hecho suficiente por ellas; incluso ellas mismas, difícilmente pueden esperar más.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"There is no knowing what THEY may expect,\" said the lady, \"but we are not to think of their expectations: the question is, what you can afford to do.\"",
+    "target": "-Imposible saber qué podrían esperar ellas -dijo la señora-, pero no nos corresponde pensar en sus expectativas. El punto es qué puedes permitirte hacer.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Certainly--and I think I may afford to give them five hundred pounds a-piece.",
+    "target": "-Indudablemente, y creo que puedo permitirme darle quinientas libras a cada una.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "As it is, without any addition of mine, they will each have about three thousand pounds on their mother's death--a very comfortable fortune for any young woman.\"",
+    "target": "Tal como están las cosas, sin que yo agregue nada, cada una tendrá más de tres mil libras a la muerte de su madre: una fortuna muy satisfactoria para cualquier mujer joven.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"To be sure it is; and, indeed, it strikes me that they can want no addition at all.",
+    "target": "-Claro que lo es; y, en verdad, se me ocurre que quizá no quieran ninguna suma adicional.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "If they marry, they will be sure of doing well, and if they do not, they may all live very comfortably together on the interest of ten thousand pounds.\"",
+    "target": "Si se casan, seguramente harán un buen matrimonio; y si no lo hacen, pueden vivir juntas de manera muy holgada con los intereses de las diez mil libras.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"That is very true, and, therefore, I do not know whether, upon the whole, it would not be more advisable to do something for their mother while she lives, rather than for them--something of the annuity kind I mean.--My sisters would feel the good effects of it as well as herself.",
+    "target": "-Absolutamente cierto, y, por lo tanto, no sé si, considerándolo todo, no sería más aconsejable hacer algo por su madre mientras viva, antes que por ellas; algo como una pensión anual, quiero decir. Mis hermanas percibirían los beneficios tanto como ella.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "A hundred a year would make them all perfectly comfortable.\"",
+    "target": "Cien libras al año las mantendrían en una perfecta holgura.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "source": "His wife hesitated a little, however, in giving her consent to this plan.",
+    "target": "Su esposa dudó un tanto, sin embargo, en dar su aprobación a este plan.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"To be sure,\" said she, \"it is better than parting with fifteen hundred pounds at once.",
+    "target": "-De todas maneras dijo-, es mejor que separarse de quinientas libras de una vez.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "But, then, if Mrs. Dashwood should live fifteen years we shall be completely taken in.\"",
+    "target": "Pero si la señora Dashwood vive quince años más, eso se va a transformar en un abuso.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Fifteen years! my dear Fanny; her life cannot be worth half that purchase.\"",
+    "target": "-¡Quince años! Mi querida Fanny, su vida no puede valer ni la mitad de tal cantidad.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "\"Certainly not; but if you observe, people always live for ever when there is an annuity to be paid them; and she is very stout and healthy, and hardly forty.",
+    "target": "-Por supuesto que no; pero, si te fijas, la gente siempre vive eternamente cuando hay una pensión de por medio; y ella es muy fuerte y saludable, y apenas ha cumplido los cuarenta.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "An annuity is a very serious business; it comes over and over every year, and there is no getting rid of it.",
+    "target": "Una pensión anual es asunto muy serio; se repite año tras año y no hay forma de librarse de ella.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "I have known a great deal of the trouble of annuities; for my mother was clogged with the payment of three to old superannuated servants by my father's will, and it is amazing how disagreeable she found it.",
+    "target": "Yo sí he conocido bastante los problemas que acarrean las pensiones anuales, porque mi madre se encontraba maniatada por la obligación de pagarlas a tres antiguos sirvientes jubilados, según mi padre lo había establecido en su testamento.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Twice every year these annuities were to be paid; and then there was the trouble of getting it to them; and then one of them was said to have died, and afterwards it turned out to be no such thing.",
+    "target": "Es increíble cuán desagradable lo encontraba. Dos veces al año había que pagar estas pensiones; y, además, estaba el problema de hacérsela llegar a cada uno; luego se dijo que uno de ellos había muerto, y después resultó que no había tal.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "Her income was not her own, she said, with such perpetual claims on it; and it was the more unkind in my father, because, otherwise, the money would have been entirely at my mother's disposal, without any restriction whatever.",
+    "target": "Sus entradas no eran de ella, decía, con estas perpetuas demandas; y había sido muy poco considerado de parte de mi padre, porque, de otra forma, el dinero habría estado por completo a disposición de mi madre, sin restricción alguna.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  },
+  {
+    "source": "It has given me such an abhorrence of annuities, that I am sure I would not pin myself down to the payment of one for all the world.\"",
+    "target": "De allí me ha venido tal aborrecimiento a las pensiones, que estoy segura de que por nada del mundo me ataré al pago de una.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "src_lang_nllb": "eng_Latn",
+    "tgt_lang_nllb": "spa_Latn"
+  }
+]
