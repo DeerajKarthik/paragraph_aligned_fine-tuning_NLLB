@@ -6,8 +6,8 @@ This repository includes a training script, an inference notebook, and JSON data
 
 ## Repository contents
 
-- `finetune_nllb.py` — command-line training script built with Hugging Face Transformers.
-- `inference.ipynb` — notebook for running inference with a fine-tuned model.
+- `scripts/finetune_nllb.py` — command-line training script built with Hugging Face Transformers.
+- `scripts/inference.ipynb` — notebook for running inference with a fine-tuned model.
 - `data/` — paragraph-aligned JSON datasets. Each item contains `source`, `target`, language labels, and NLLB language codes.
 
 The `opus_de_en_25k_*` files contain German-to-English data; the `opus_test_*` files contain the smaller experiment splits.
@@ -25,7 +25,7 @@ A CUDA-capable GPU is recommended. The training script uses bfloat16 by default 
 ## Fine-tune German to English
 
 ```bash
-python finetune_nllb.py \
+python scripts/finetune_nllb.py \
   --train_dataset data/opus_de_en_25k_train.json \
   --val_dataset data/opus_de_en_25k_val.json \
   --src_lang deu_Latn \
@@ -64,11 +64,11 @@ The trainer accepts a JSON list whose entries follow this shape:
 }
 ```
 
-Only `source` and `target` are required by `finetune_nllb.py`; pass the matching NLLB language codes with `--src_lang` and `--tgt_lang`.
+Only `source` and `target` are required by `scripts/finetune_nllb.py`; pass the matching NLLB language codes with `--src_lang` and `--tgt_lang`.
 
 ## Inference
 
-Open `inference.ipynb`, set the fine-tuned model path, and run the cells to translate text. The notebook is a starting point for loading the model and tokenizer after training.
+Open `scripts/inference.ipynb`, set the fine-tuned model path, and run the cells to translate text. The notebook is a starting point for loading the model and tokenizer after training.
 
 ## License and data
 
