@@ -38,6 +38,17 @@ python finetune_nllb.py \
 
 Use `--no_fp16` to turn off fp16. Adjust the batch size and gradient accumulation for the available GPU memory.
 
+## Rebuild the OPUS Books dataset
+
+The reproducible German-to-English dataset builder is at `scripts/prepare_opus_dataset.py`. It downloads the `de-en` configuration of `Helsinki-NLP/opus_books`, validates and filters pairs, performs exact and fuzzy deduplication, removes the lowest-quality 10%, and creates balanced 80/10/10 length-stratified splits.
+
+```bash
+pip install datasets langdetect rapidfuzz transformers torch
+python scripts/prepare_opus_dataset.py --output-dir data
+```
+
+It writes the existing JSON-array files used by the training script, matching JSONL files, and `opus_de_en_25k_metadata.json` with filter counts, split statistics, and MD5 checksums. The default quality stage scores English targets with `distilgpt2`; use `--quality-model none` only for a fast development run.
+
 ## Dataset format
 
 The trainer accepts a JSON list whose entries follow this shape:
