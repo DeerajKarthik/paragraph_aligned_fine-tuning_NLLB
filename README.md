@@ -5,7 +5,7 @@ Fine-tune [NLLB-200 distilled 600M](https://huggingface.co/facebook/nllb-200-dis
 This repository includes a training script, an inference notebook, and JSON data splits for German-to-English and English-to-Spanish experiments.
 
 ## Repository contents
-
+- `scripts/prepare_opus_dataset.py` — dataset curation script using the Helsinki-NLP/opus_books base dataset, using an 8-stage filtering pipeline.
 - `scripts/finetune_nllb.py` — command-line training script built with Hugging Face Transformers.
 - `scripts/inference.ipynb` — notebook for running inference with a fine-tuned model.
 - `data/` — paragraph-aligned JSON datasets. Each item contains `source`, `target`, language labels, and NLLB language codes.
